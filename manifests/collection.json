@@ -1,0 +1,13 @@
+{
+  "id" : "https://jmodrzewski12.github.io/INKUB/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jmodrzewski12/INKUB project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://jmodrzewski12.github.io/INKUB/manifests/manifest.json",
+    "label" : "INKUB POCZTOWA"
+  } ]
+}
