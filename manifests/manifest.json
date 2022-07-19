@@ -34,7 +34,7 @@
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "http://localhost:8182/iiif/3/pocztowa_NE.tif",
+            "@id" : "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_NE.tif",
             "profile" : "level2"
           },
           "height" : 8948,
@@ -55,12 +55,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/pocztowa_NW.tif/full/full/0/default.jpg",
+          "@id" : "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_NW.tif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "http://localhost:8182/iiif/3/pocztowa_NW.tif",
+            "@id" : "https://pac.cenagis.edu.pl/iiif-api//iiif/3/pocztowa_NW.tif",
             "profile" : "level2"
           },
           "height" : 8668,
@@ -81,7 +81,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://localhost:8182/iiif/3/pocztowa_SE.tif/full/full/0/default.jpg",
+          "@id" : "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_SE.tif/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -112,7 +112,7 @@
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/3/context.json",
-            "@id" : "http://localhost:8182/iiif/3/pocztowa_SW.tif",
+            "@id" : "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_SW.tif",
             "profile" : "level2"
           },
           "height" : 8696,
