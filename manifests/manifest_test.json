@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://63f9c18a-7b10-46de-ba6d-0b51dcfaec5f",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://682bccf3-b4d8-42cf-829b-9d4444f3dc8b",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://432a062a-144b-49ab-b1e1-1408f1000f3f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 8948,
+					"width": 10573,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://77b09bae-84cd-4df0-8314-129d178ffc4f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_NE.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_NE.tif",
+									"profile": "level2"
+								},
+								"height": 8948,
+								"width": 10573
+							},
+							"on": "http://432a062a-144b-49ab-b1e1-1408f1000f3f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
