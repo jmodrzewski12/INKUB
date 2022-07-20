@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6775b857-ebc3-4c96-a306-40c534185828",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://d6cdb59a-9737-4b28-9f8c-0db3efd0e037",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://0ff18ba7-66db-48a9-b42c-9e8f443f5fdb",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1847,
+					"width": 3277,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://971deadf-ddef-489a-8e08-99048e2e155f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/kot.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/kot.jpg",
+									"profile": "level2"
+								},
+								"height": 1847,
+								"width": 3277
+							},
+							"on": "http://0ff18ba7-66db-48a9-b42c-9e8f443f5fdb"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
