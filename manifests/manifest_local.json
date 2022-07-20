@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://jmodrzewski12.github.io/INKUB/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "INKUB POCZTOWA",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://be456fca-5b21-49de-b88a-91ca4caab808",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8af41abd-2a06-4bde-aa38-ce832a086791",
+      "@type" : "sc:Canvas",
+      "label" : "Pocztowa NE",
+      "height" : 8948,
+      "width" : 10573,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://464293e7-84ab-41ce-a884-e361467ef85b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/pocztowa_NE.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/pocztowa_NE.tif",
+            "profile" : "level2"
+          },
+          "height" : 8948,
+          "width" : 10573
+        },
+        "on" : "http://8af41abd-2a06-4bde-aa38-ce832a086791"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b1aea6e9-1d56-4b29-aa96-27da1c73efdc",
+      "@type" : "sc:Canvas",
+      "label" : "Pocztowa NW",
+      "height" : 8668,
+      "width" : 9272,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://358055a2-b280-4dbb-8f2d-b3d65f3ff761",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/pocztowa_NW.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/pocztowa_NW.tif",
+            "profile" : "level2"
+          },
+          "height" : 8668,
+          "width" : 9272
+        },
+        "on" : "http://b1aea6e9-1d56-4b29-aa96-27da1c73efdc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f02dae5d-d7e9-4b1e-9ba5-610596af1f86",
+      "@type" : "sc:Canvas",
+      "label" : "Pocztowa SE",
+      "height" : 8942,
+      "width" : 10197,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6b30e01f-64ec-4474-b273-e4587bb2fdec",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/pocztowa_SE.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/pocztowa_SE.tif",
+            "profile" : "level2"
+          },
+          "height" : 8942,
+          "width" : 10197
+        },
+        "on" : "http://f02dae5d-d7e9-4b1e-9ba5-610596af1f86"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1c2df83b-7960-4923-bfd2-b69c3ff25803",
+      "@type" : "sc:Canvas",
+      "label" : "Pocztowa SW",
+      "height" : 8696,
+      "width" : 7410,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af072089-447b-46a4-9d51-fbd435e9f5a6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/3/pocztowa_SW.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "@id" : "http://localhost:8182/iiif/3/pocztowa_SW.tif",
+            "profile" : "level2"
+          },
+          "height" : 8696,
+          "width" : 7410
+        },
+        "on" : "http://1c2df83b-7960-4923-bfd2-b69c3ff25803"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+} 
