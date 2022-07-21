@@ -1,0 +1,88 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f778ec59-d780-4486-a7ec-67efcebd8112",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://9be6a82f-7ef0-476d-a4ed-bab28077bdc0",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://91750718-03a9-4982-9690-a9f36aca4071",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 8948,
+					"width": 10573,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3d72007b-a5e6-4de0-bcda-2b8f0dae6118",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api//iiif/3/pocztowa_NE.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api//iiif/3/pocztowa_NE.tif",
+									"profile": "level2"
+								},
+								"height": 8948,
+								"width": 10573
+							},
+							"on": "http://91750718-03a9-4982-9690-a9f36aca4071"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f59cfe64-3b1c-4e9f-953c-0cd2d963267b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 8668,
+					"width": 9272,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://73227aad-0f39-4b59-8604-be5d96e648d6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api//iiif/3/pocztowa_NW.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api//iiif/3/pocztowa_NW.tif",
+									"profile": "level2"
+								},
+								"height": 8668,
+								"width": 9272
+							},
+							"on": "http://f59cfe64-3b1c-4e9f-953c-0cd2d963267b"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
