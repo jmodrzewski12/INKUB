@@ -36,7 +36,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_NE.tif/full/full/0/default.jpg",
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_NE.tif/full/max/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -65,7 +65,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_SE.tif/full/full/0/default.jpg",
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/pocztowa_SE.tif/full/max/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
