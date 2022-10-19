@@ -1,0 +1,143 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://iiif.io/api/presentation/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Images",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://iiif.io/api/presentation/canvas/RGB_TT_III_207.tif.json",
+          "@type": "sc:Canvas",
+          "label": "RGB_TT_III_207",
+          "height": 12787,
+          "width": 12878,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_III_207.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 12787,
+                "width": 12878,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_III_207.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://iiif.io/api/presentation/canvas/RGB_TT_III_207.tif.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://iiif.io/api/presentation/canvas/RGB_TT_IV_327.tif.json",
+          "@type": "sc:Canvas",
+          "label": "RGB_TT_IV_327",
+          "height": 13201,
+          "width": 13433,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_IV_327.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 13201,
+                "width": 13433,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_IV_327.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://iiif.io/api/presentation/canvas/RGB_TT_IV_327.tif.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://iiif.io/api/presentation/canvas/RGB_TT_IV_328.tif.json",
+          "@type": "sc:Canvas",
+          "label": "RGB_TT_IV_328",
+          "height": 6299,
+          "width": 7810,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_IV_328.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6299,
+                "width": 7810,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_IV_328.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://iiif.io/api/presentation/canvas/RGB_TT_IV_328.tif.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://iiif.io/api/presentation/canvas/RGB_TT_IV_329.tif.json",
+          "@type": "sc:Canvas",
+          "label": "RGB_TT_IV_329",
+          "height": 4431,
+          "width": 5333,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_IV_329.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4431,
+                "width": 5333,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://127.0.0.1:8182/iiif/3/RGB_TT_IV_329.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://iiif.io/api/presentation/canvas/RGB_TT_IV_329.tif.json"
+            }
+          ]
+        },
+        {
+          "@id": "http://iiif.io/api/presentation/canvas/RGB_T_II_1696.tif.json",
+          "@type": "sc:Canvas",
+          "label": "RGB_T_II_1696",
+          "height": 6367,
+          "width": 7005,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://127.0.0.1:8182/iiif/3/RGB_T_II_1696.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6367,
+                "width": 7005,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://127.0.0.1:8182/iiif/3/RGB_T_II_1696.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "http://iiif.io/api/presentation/canvas/RGB_T_II_1696.tif.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
