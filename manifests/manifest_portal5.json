@@ -18,14 +18,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_III_207.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_III_207.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 12787,
                 "width": 12878,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_III_207.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_III_207.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -44,14 +44,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_IV_327.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_IV_327.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 13201,
                 "width": 13433,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_IV_327.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_IV_327.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -70,14 +70,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_IV_328.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_IV_328.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 6299,
                 "width": 7810,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_IV_328.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_IV_328.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -96,14 +96,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_IV_329.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_IV_329.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 4431,
                 "width": 5333,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_TT_IV_329.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_TT_IV_329.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -122,14 +122,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1696.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1696.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 6367,
                 "width": 7005,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1696.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1696.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -148,14 +148,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1706.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1706.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2908,
                 "width": 1710,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1706.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1706.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -174,44 +174,18 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1709_1710_1731.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1709_1710_1731.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 9766,
                 "width": 11498,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1709_1710_1731.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1709_1710_1731.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
               "on": "http://iiif.io/api/presentation/canvas/RGB_T_II_1709_1710_1731.tif.json"
-            }
-          ]
-        },
-        {
-          "@id": "http://iiif.io/api/presentation/canvas/RGB_T_II_1725.tif.json",
-          "@type": "sc:Canvas",
-          "label": "T_II_1725",
-          "height": 3862,
-          "width": 4731,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1725.tif/full/full/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 3862,
-                "width": 4731,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1725.tif",
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "http://iiif.io/api/presentation/canvas/RGB_T_II_1725.tif.json"
             }
           ]
         },
@@ -226,14 +200,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1728.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1728.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2971,
                 "width": 2851,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1728.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1728.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -252,14 +226,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1729.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1729.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2464,
                 "width": 5573,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1729.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1729.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -278,14 +252,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1730.tif/full/full/0/default.jpg",
+                "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1730.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 9116,
                 "width": 2577,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://127.0.0.1:8184/iiif/3/RGB_T_II_1730.tif",
+                  "@id": "https://pac.cenagis.edu.pl/iiif_konteksty/iiif/3/RGB_T_II_1730.tif",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
