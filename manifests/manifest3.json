@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://jmodrzewski12.github.io/INKUB/manifests/manifest.json",
+  "@id" : "https://raw.githubusercontent.com/jmodrzewski12/INKUB/main/manifests/manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "INKUB POCZTOWA",
   "metadata" : [ ],
