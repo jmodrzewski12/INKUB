@@ -1,0 +1,257 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://bae3d7e9-b4f8-4a52-a476-5cfc370fa924",
+	"@type": "sc:Manifest",
+	"label": "Tomb Orthophotographs",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://23bc15e5-61a4-41a5-846e-c338fe3a19ce",
+			"@type": "sc:Sequence",
+			"label": "Exterior and Interior Walls",
+			"canvases": [
+				{
+					"@id": "http://181a41d2-1a63-4315-b214-f48f0942c730",
+					"@type": "sc:Canvas",
+					"label": "Exterior N",
+					"height": 5366,
+					"width": 13340,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8b085a73-47d5-494f-90b5-fdfc182fada2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_N.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_N.tif",
+									"profile": "level2"
+								},
+								"height": 5366,
+								"width": 13340
+							},
+							"on": "http://181a41d2-1a63-4315-b214-f48f0942c730"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://664969f9-ccd0-4fe6-b37e-3e44c6c754c1",
+					"@type": "sc:Canvas",
+					"label": "Exterior S",
+					"height": 5749,
+					"width": 13148,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://872013fb-1b86-4c5f-9a42-b294cc2baeaa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_S.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_S.tif",
+									"profile": "level2"
+								},
+								"height": 5749,
+								"width": 13148
+							},
+							"on": "http://664969f9-ccd0-4fe6-b37e-3e44c6c754c1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4e9c530d-6aae-4077-8678-475b0548471c",
+					"@type": "sc:Canvas",
+					"label": "Exterior E",
+					"height": 5564,
+					"width": 15804,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b6f43caa-0fc9-4e2e-9c18-853d052c99e6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_E.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_E.tif",
+									"profile": "level2"
+								},
+								"height": 5564,
+								"width": 15804
+							},
+							"on": "http://4e9c530d-6aae-4077-8678-475b0548471c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ff5c4fa2-8455-47c2-bc21-49a35ea65223",
+					"@type": "sc:Canvas",
+					"label": "Exterior W",
+					"height": 4635,
+					"width": 15922,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://68cd0159-bd16-4dec-82a5-e89efbe22d41",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_W.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/exter_W.tif",
+									"profile": "level2"
+								},
+								"height": 4635,
+								"width": 15922
+							},
+							"on": "http://ff5c4fa2-8455-47c2-bc21-49a35ea65223"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cc8421e7-ba46-47ee-94a5-a07efd6baac3",
+					"@type": "sc:Canvas",
+					"label": "Interior N",
+					"height": 4346,
+					"width": 9165,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0aa3856d-2b30-48b4-a49e-c9eeb84ccc31",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_N.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_N.tif",
+									"profile": "level2"
+								},
+								"height": 4346,
+								"width": 9165
+							},
+							"on": "http://cc8421e7-ba46-47ee-94a5-a07efd6baac3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://82222e8e-da81-416c-8fa4-f1d416c0b590",
+					"@type": "sc:Canvas",
+					"label": "Interior S",
+					"height": 4342,
+					"width": 6664,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f0ba2e54-9d16-4007-a18f-3003426420c3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_S.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_S.tif",
+									"profile": "level2"
+								},
+								"height": 4342,
+								"width": 6664
+							},
+							"on": "http://82222e8e-da81-416c-8fa4-f1d416c0b590"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://66b1d3f9-8a42-49ac-8da7-5a55ea1ad6f1",
+					"@type": "sc:Canvas",
+					"label": "Interior E",
+					"height": 4345,
+					"width": 14832,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d4323bd0-1634-4fdc-9492-5b3501112bbe",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_E.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_E.tif",
+									"profile": "level2"
+								},
+								"height": 4345,
+								"width": 14832
+							},
+							"on": "http://66b1d3f9-8a42-49ac-8da7-5a55ea1ad6f1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://67c1530e-24f8-44ef-b09c-01a47008955b",
+					"@type": "sc:Canvas",
+					"label": "Interior W",
+					"height": 4456,
+					"width": 12763,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://41539487-38dd-4dd5-9e6c-4299744313cc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_W.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://pac.cenagis.edu.pl/iiif-api/iiif/3/inter_W.tif",
+									"profile": "level2"
+								},
+								"height": 4456,
+								"width": 12763
+							},
+							"on": "http://67c1530e-24f8-44ef-b09c-01a47008955b"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
